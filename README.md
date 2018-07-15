@@ -49,8 +49,8 @@ H=[[65536,32768,16384,8192],[512,1024,2048,4096],[256,128,64,32],[2,4,8,16]]
 
 [1]Helper_3 : All utility functions created for this game are written here. This includes the eval function which evaluates the heuristic score for a given configuration
 ```
-<b>[1]</b> = Source code by: ColumbiaEDX - Artificial Intelligence Course - Micro Master
-<b>[2]</b> = Guillermo Andres De Mendoza Corrales , memoodm@gmail.com, Colombia, Bogota D.C.
+<b>[1]</b> = Source code by: ColumbiaEDX - Artificial Intelligence Course - Micro Master<br />
+<b>[2]</b> = Guillermo Andres De Mendoza Corrales , memoodm@gmail.com, Colombia, Bogota D.C.<br />
 
 
 ## 5. Execute project
