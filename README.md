@@ -45,11 +45,12 @@ H=[[65536,32768,16384,8192],[512,1024,2048,4096],[256,128,64,32],[2,4,8,16]]
 
 [1]ComputerAI_3 : This inherits from BaseAI. The getMove() function returns a computer action, i.e. a tuple (x, y) indicating the place you want to place a tile
 
-PlayerAI_3 : Gets the next move for the player using Minimax Algorithm 
+[2]PlayerAI_3 : Gets the next move for the player using Minimax Algorithm 
 
 [1]Helper_3 : All utility functions created for this game are written here. This includes the eval function which evaluates the heuristic score for a given configuration
 ```
-[1] = <b>Source code by: ColumbiaEDX - Artificial Intelligence Course - Micro Master</b>
+<b>[1]</b> = Source code by: ColumbiaEDX - Artificial Intelligence Course - Micro Master
+<b>[2]</b> = Guillermo Andres De Mendoza Corrales , memoodm@gmail.com, Colombia, Bogota D.C.
 
 
 ## 5. Execute project
