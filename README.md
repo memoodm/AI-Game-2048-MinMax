@@ -34,7 +34,7 @@ H=[[65536,32768,16384,8192],[512,1024,2048,4096],[256,128,64,32],[2,4,8,16]]
 
 
 ## 4. Code used
-
+```sh
 [1]BaseDisplayer_3.py and Displayer_3.py: Print the grid
 
 [1]GameManager_3 :  Driver program that loads Computer AI and Player AI and begins the game where they compete with each other. Note that the time for making a move is kept as 2 seconds. 
@@ -48,7 +48,7 @@ H=[[65536,32768,16384,8192],[512,1024,2048,4096],[256,128,64,32],[2,4,8,16]]
 PlayerAI_3 : Gets the next move for the player using Minimax Algorithm 
 
 [1]Helper_3 : All utility functions created for this game are written here. This includes the eval function which evaluates the heuristic score for a given configuration
-
+```
 [1] = <b>Source code by: ColumbiaEDX - Artificial Intelligence Course - Micro Master</b>
 
 
